@@ -1,6 +1,7 @@
 # SNHU-CS-305
 
 - Briefly summarize your client, Artemis Financial, and their software requirements. Who was the client? What issue did they want you to address?
+
 Artemis Financials is a consulting company that handles sensitive customer financial data. They requested a review and update of their application's security to ensure that it met with industry standards and protected their customers.
 
 - What did you do very well when you found your client’s software security vulnerabilities? Why is it important to code securely? What value does software security add to a company’s overall wellbeing?
